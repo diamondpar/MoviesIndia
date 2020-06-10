@@ -10,6 +10,6 @@
 echo
 echo 
 echo - ************************************************************************************************
-echo - "What you are reading now, is the base existing code."
-echo - "Consider this part of the code to exist before you even joined the company."
+echo - "What you are reading now, is the newly written code which you are trying to merge with thebase existing code."
+echo - "Imagine this part of the code to be written by you as a developer while working on the new feature."
 echo - ************************************************************************************************
